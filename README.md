@@ -13,6 +13,6 @@ cd wes-servlet3-test
 Unless otherwise stated, the server will be managed as dependency and executed in embedded mode.
 
 ```
-cd jetty8
+cd jetty9
 mvn test
 ```

@@ -82,6 +82,10 @@ public class ServerHttpExchangeTest extends ServerHttpExchangeTestTemplate {
 	@Test
 	@Ignore
 	public void bodyAction() {}
+	@Override
+	@Test
+	@Ignore
+	public void bodyAction_charset() {}
 	
 	// Fixed in 1.0.0.Beta34
 	// https://issues.jboss.org/browse/UNDERTOW-178

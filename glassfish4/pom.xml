@@ -15,12 +15,6 @@
 	<dependencies>
 		<dependency>
 			<groupId>io.github.flowersinthesand</groupId>
-			<artifactId>wes</artifactId>
-			<version>${wes.version}</version>
-			<scope>test</scope>
-		</dependency>
-		<dependency>
-			<groupId>io.github.flowersinthesand</groupId>
 			<artifactId>wes-test</artifactId>
 			<version>${wes.version}</version>
 			<scope>test</scope>

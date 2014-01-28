@@ -39,12 +39,6 @@
 		</dependency>
 		<dependency>
 			<groupId>org.glassfish.main.extras</groupId>
-			<artifactId>glassfish-embedded-nucleus</artifactId>
-			<version>${glassfish.version}</version>
-			<scope>test</scope>
-		</dependency>
-		<dependency>
-			<groupId>org.glassfish.main.extras</groupId>
 			<artifactId>glassfish-embedded-web</artifactId>
 			<version>${glassfish.version}</version>
 			<scope>test</scope>

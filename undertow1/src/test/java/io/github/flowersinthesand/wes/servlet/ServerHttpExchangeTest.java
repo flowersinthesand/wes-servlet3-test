@@ -75,25 +75,6 @@ public class ServerHttpExchangeTest extends ServerHttpExchangeTestTemplate {
 		.send();
 	}
 	
-	// Fixed in 1.0.0.Beta34
-	// https://issues.jboss.org/browse/UNDERTOW-179
-	// https://issues.jboss.org/browse/UNDERTOW-180
-	@Override
-	@Test
-	@Ignore
-	public void bodyAction() {}
-	@Override
-	@Test
-	@Ignore
-	public void bodyAction_charset() {}
-	
-	// Fixed in 1.0.0.Beta34
-	// https://issues.jboss.org/browse/UNDERTOW-178
-	@Override
-	@Test
-	@Ignore
-	public void write() {}
-	
 	@Override
 	@Test
 	@Ignore

@@ -10,7 +10,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<wes.version>0.2.1</wes.version>
 		<slf4j.version>1.7.5</slf4j.version>
-		<undertow.version>1.0.0.CR1</undertow.version>
+		<undertow.version>1.0.0.Final</undertow.version>
 	</properties>
 	<dependencies>
 		<dependency>
